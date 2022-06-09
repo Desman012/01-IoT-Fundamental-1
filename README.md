@@ -8,4 +8,4 @@
 6. Apa yang dimaksud dari sensor? (Sensor adalah perangkat yang merasakan informasi fisik, kimia, dan biologis dari objek pengukuran dan mengubahnya menjadi sinyal listrik)
 7. Sebutkan minimal 2 penerapan teknologi IoT pada smart city? ()
 8. Jelaskan perbedaan dari SaaS dan PaaS? ()
-9. Sebutkan apa yang dimaksud dengan IaaS ? (IaaS (Infrastructure as a Service) adalah layanan cloud computing yang menyediakan sumber daya infrastruktur seperti server, penyimpanan, jaringan berdasarkan penggunaan, menyediakan penyimpanan dasar dan daya komputasi komputasi awan, termasuk server, jaringan, sistem operasi, dan penyimpanan, melalui teknologi virtualisasi memberikan kontrol penuh atas seluruh infrastruktur kepada klien)
+9. Sebutkan apa yang dimaksud dengan IaaS ? (IaaS (Infrastructure as a Service) adalah layanan cloud computing yang menyediakan sumber daya infrastruktur seperti server, penyimpanan, sistem operasi, jaringan berdasarkan penggunaan, dan daya komputasi awan lainnya serta, memberikan kontrol penuh atas seluruh infrastruktur kepada klien)
